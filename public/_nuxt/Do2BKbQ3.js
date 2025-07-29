@@ -1,0 +1,1 @@
+import{C as o}from"./DI4IGf30.js";import{g as t,c as e,b as r,o as s}from"./EiYOuP0n.js";import"./fIygdqGO.js";import"./sK2qMGig.js";import"./C9sDtSHs.js";import"./CMDbwTcF.js";import"./DlAUqK2U.js";import"./CpwgzFML.js";const a={class:"h-full"},C=t({__name:"[[sessionId]]",setup(i){return(m,p)=>(s(),e("div",a,[r(o)]))}});export{C as default};

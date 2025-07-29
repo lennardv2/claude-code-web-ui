@@ -1,0 +1,29 @@
+{
+  "name": "nuxt-app-prod",
+  "version": "0.0.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@anthropic-ai/claude-code": "1.0.59",
+    "@babel/parser": "7.28.0",
+    "@vue/compiler-core": "3.5.17",
+    "@vue/compiler-dom": "3.5.17",
+    "@vue/compiler-ssr": "3.5.17",
+    "@vue/reactivity": "3.5.17",
+    "@vue/runtime-core": "3.5.17",
+    "@vue/runtime-dom": "3.5.17",
+    "@vue/server-renderer": "3.5.17",
+    "@vue/shared": "3.5.17",
+    "chokidar": "4.0.3",
+    "devalue": "5.1.1",
+    "entities": "4.5.0",
+    "estree-walker": "2.0.2",
+    "hookable": "5.5.3",
+    "readdirp": "4.1.2",
+    "source-map-js": "1.2.1",
+    "ufo": "1.6.1",
+    "unhead": "2.0.12",
+    "vue": "3.5.17",
+    "vue-bundle-renderer": "2.1.1"
+  }
+}

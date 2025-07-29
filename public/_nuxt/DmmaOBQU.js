@@ -1,0 +1,1 @@
+import{C as o}from"./DI4IGf30.js";import{g as t,c as e,b as r,o as a}from"./EiYOuP0n.js";import"./fIygdqGO.js";import"./sK2qMGig.js";import"./C9sDtSHs.js";import"./CMDbwTcF.js";import"./DlAUqK2U.js";import"./CpwgzFML.js";const i={class:"h-full"},x=t({__name:"index",setup(m){return(p,s)=>(a(),e("div",i,[r(o)]))}});export{x as default};
