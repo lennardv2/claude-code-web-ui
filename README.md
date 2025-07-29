@@ -4,8 +4,6 @@ This product is in alpha state. There is not authentication! So you need to brin
 
 This is the production build of Claude Code Web UI, a web-based interface for interacting with Claude Code CLI.
 
-<img width="887" height="714" alt="Scherm­afbeelding 2025-07-29 om 22 02 22" src="https://github.com/user-attachments/assets/8652996a-5622-4fbb-ac78-7b8c872060a4" />
-
 ## Video
 https://github.com/user-attachments/assets/418a2aba-829c-40f5-9b04-8e92eae4e8e3
 
@@ -36,6 +34,10 @@ To run on a different port:
 ```bash
 PORT=8080 node ./server/index.mjs
 ```
+
+## Image
+<img width="887" height="714" alt="472182159-8652996a-5622-4fbb-ac78-7b8c872060a4" src="https://github.com/user-attachments/assets/48cfdd4d-6a85-499f-b745-c88e34a262f4" />
+
 
 ## Support
 
