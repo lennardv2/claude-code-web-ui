@@ -1,4 +1,4 @@
-# Claude Code UI - Production Build
+# Claude Code Web UI - Production Build
 
 This is the production build of Claude Code UI, a web-based interface for interacting with Claude Code CLI.
 
