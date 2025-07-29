@@ -1,5 +1,7 @@
 # Claude Code Web UI - Production Build
 
+This product is in alpha state. There is not authentication! So you need to bring your own via a reverse proxy.
+
 This is the production build of Claude Code Web UI, a web-based interface for interacting with Claude Code CLI.
 
 <img width="887" height="714" alt="Scherm­afbeelding 2025-07-29 om 22 02 22" src="https://github.com/user-attachments/assets/8652996a-5622-4fbb-ac78-7b8c872060a4" />
