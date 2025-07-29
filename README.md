@@ -1,6 +1,6 @@
 # Claude Code Web UI - Production Build
 
-This is the production build of Claude Code UI, a web-based interface for interacting with Claude Code CLI.
+This is the production build of Claude Code Web UI, a web-based interface for interacting with Claude Code CLI.
 
 ## Prerequisites
 
