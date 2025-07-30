@@ -1,4 +1,4 @@
-# Claude Code Web UI - Production Build
+# Claude Code Web UI
 
 This product is in alpha state. There is not authentication! So you need to bring your own via a reverse proxy.
 
