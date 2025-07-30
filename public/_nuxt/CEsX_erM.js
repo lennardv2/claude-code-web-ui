@@ -1,0 +1,1 @@
+import{a1 as s}from"./1qPK58ej.js";const e=s("settings",{state:()=>({soundEffects:!0,autoSave:!1,dangerouslySkipPermissions:!1,defaultCwd:"/home/app/claude-code-ui"}),actions:{setSoundEffects(s){this.soundEffects=s},setAutoSave(s){this.autoSave=s},setDangerouslySkipPermissions(s){this.dangerouslySkipPermissions=s},setDefaultCwd(s){this.defaultCwd=s}}});export{e as u};

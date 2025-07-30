@@ -1,4 +1,1 @@
-const template = "";
-
-export { template };
-//# sourceMappingURL=_virtual_spa-template.mjs.map
+const t="";export{t as template};

@@ -1,0 +1,1 @@
+import{i as r}from"./BGbY1Cx8.js";import{r as a,m as o}from"./1qPK58ej.js";import{a as t}from"./DlqMpwWJ.js";function n(t){const n=r({dir:a("ltr")});return o(()=>t?.value||n.dir?.value||"ltr")}function s(t){const n=r({nonce:a()});return o(()=>t?.value||n.nonce?.value)}const e=t("check",[["path",{d:"M20 6 9 17l-5-5",key:"1gmf2c"}]]);export{e as C,s as a,n as u};
