@@ -42,6 +42,12 @@ To run on a different subpath (behind a reverse proxy) for example:
 APP_BASE_URL=/claude-code claude-code-web
 ```
 
+## Whisper Mic support
+Make sure the OPENAI_API_KEY env var is set, because the speech to text uses OPENAI whisper:
+```bash
+OPENAI_API_KEY=sk_.... claude-code-web
+```
+
 ## Image
 <img width="887" height="714" alt="472182159-8652996a-5622-4fbb-ac78-7b8c872060a4" src="https://github.com/user-attachments/assets/48cfdd4d-6a85-499f-b745-c88e34a262f4" />
 
