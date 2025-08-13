@@ -1,4 +1,4 @@
-# Claude Code Web – Web UI for Claude Code CLI
+# Claude Code Web UI - For Claude Code
 
 A browser-based interface for [Claude Code CLI](https://github.com/anthropic/claude-code) with extras like voice input, text-to-speech, drag-and-drop images, hotkeys, and a built-in todo sidebar.
 
