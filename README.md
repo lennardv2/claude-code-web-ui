@@ -4,17 +4,6 @@ This product is in alpha state. There is not authentication! So you need to brin
 
 This is the production build of Claude Code Web, a web-based interface for interacting with Claude Code CLI.
 
-## Videos
-https://github.com/user-attachments/assets/e787a7e3-4300-486d-bd20-4080c5ee255f
-
-https://github.com/user-attachments/assets/418a2aba-829c-40f5-9b04-8e92eae4e8e3
-
-
-## Prerequisites
-
-- Node.js 18+ 
-- Claude Code CLI installed and configured
-
 ## Running the Application
 
 1. Git clone
@@ -28,7 +17,17 @@ https://github.com/user-attachments/assets/418a2aba-829c-40f5-9b04-8e92eae4e8e3
    ```
 3. Claude is running on http://localhost:3000/
 
+## Prerequisites
+- Node.js 18+ 
+- Claude Code CLI installed and configured
+
 It will then listen on port 3000. BE AWARE: there is no authentication. So everyone with access to that port control your environment/computer.
+
+## Videos
+https://github.com/user-attachments/assets/e787a7e3-4300-486d-bd20-4080c5ee255f
+
+https://github.com/user-attachments/assets/418a2aba-829c-40f5-9b04-8e92eae4e8e3
+
 
 ## Configuration
 
