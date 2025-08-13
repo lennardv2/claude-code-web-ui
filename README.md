@@ -18,7 +18,7 @@ A browser-based WebUI interface for [Claude Code CLI](https://github.com/anthrop
 
 3. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-> ⚠️ **Security note:** No authentication is enabled by default. Anyone with access to the port can control your environment/computer. Run behind a firewall or proxy with auth.
+> ⚠️ No authentication mechanism. Anyone with access to the port can control your environment/computer. Run behind a firewall or proxy with auth.
 
 ---
 
