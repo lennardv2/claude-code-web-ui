@@ -4,8 +4,11 @@ This product is in alpha state. There is not authentication! So you need to brin
 
 This is the production build of Claude Code Web, a web-based interface for interacting with Claude Code CLI.
 
-## Video
+## Videos
+https://github.com/user-attachments/assets/e787a7e3-4300-486d-bd20-4080c5ee255f
+
 https://github.com/user-attachments/assets/418a2aba-829c-40f5-9b04-8e92eae4e8e3
+
 
 ## Prerequisites
 
